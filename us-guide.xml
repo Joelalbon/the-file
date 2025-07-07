@@ -1,0 +1,688 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="EPGShare01" source-info-name="iptv-org mirror" source-data-url="https://epgshare01.online/">
+  
+  
+  <!-- Channel definitions -->
+  
+  
+  <channel id="3ABN.Dare.to.Dream.Network.us">
+    
+    
+    <display-name lang="en">3ABN Dare to Dream Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.International.Network.us">
+    
+    
+    <display-name lang="en">3ABN International Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.Kids.Network.us">
+    
+    
+    <display-name lang="en">3ABN Kids Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.Latino.Network.us">
+    
+    
+    <display-name lang="en">3ABN Latino Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.Praise.Him.Music.us">
+    
+    
+    <display-name lang="en">3ABN Praise Him Music</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.Proclaim.Network.us">
+    
+    
+    <display-name lang="en">3ABN Proclaim Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.Radio.Network.us">
+    
+    
+    <display-name lang="en">3ABN Radio Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="3ABN.us">
+    
+    
+    <display-name lang="en">3ABN</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="5.Star.Max.-.Eastern.us">
+    
+    
+    <display-name lang="en">5 Star Max – Eastern</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="A.and.E.US.-.Eastern.Feed.us">
+    
+    
+    <display-name lang="en">A&amp;E (East Feed)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Aapka.Colors.us">
+    
+    
+    <display-name lang="en">Aapka Colors</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ABC.(KABC).Los.Angeles,.CA.us">
+    
+    
+    <display-name lang="en">ABC (KABC Los Angeles, CA)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ABC.NEWS.us">
+    
+    
+    <display-name lang="en">ABC News</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ABC.(WABC).New.York,.NY.us">
+    
+    
+    <display-name lang="en">ABC (WABC New York, NY)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ABP.News.us">
+    
+    
+    <display-name lang="en">ABP News</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ACC.Network.us">
+    
+    
+    <display-name lang="en">ACC Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AccuWeather.us">
+    
+    
+    <display-name lang="en">AccuWeather</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ActionMax.-.Eastern.us">
+    
+    
+    <display-name lang="en">ActionMax – Eastern</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AdultSwim.com.Cartoon.Network.us">
+    
+    
+    <display-name lang="en">Adult Swim (Cartoon Network)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.family/AFN.pulse.us">
+    
+    
+    <display-name lang="en">AFN Family/AFN Pulse</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.movie.us">
+    
+    
+    <display-name lang="en">AFN Movie</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.news.us">
+    
+    
+    <display-name lang="en">AFN News</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.prime.Atlantic.us">
+    
+    
+    <display-name lang="en">AFN Prime Atlantic</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.prime.Pacific.us">
+    
+    
+    <display-name lang="en">AFN Prime Pacific</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.spectrum.us">
+    
+    
+    <display-name lang="en">AFN Spectrum</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.sports2.us">
+    
+    
+    <display-name lang="en">AFN Sports 2</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AFN.sports.us">
+    
+    
+    <display-name lang="en">AFN Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Altitude.2.us">
+    
+    
+    <display-name lang="en">Altitude 2 (Sports)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Altitude.Sports.-.Denver.us">
+    
+    
+    <display-name lang="en">Altitude Sports (Denver)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AMC.-.Eastern.Feed.us">
+    
+    
+    <display-name lang="en">AMC – Eastern Feed</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AMC+.us">
+    
+    
+    <display-name lang="en">AMC+</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="America's.Auction.Channel.us">
+    
+    
+    <display-name lang="en">America's Auction Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="American.Heroes.Channel.us">
+    
+    
+    <display-name lang="en">American Heroes Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="and.TV.HD.USA.us">
+    
+    
+    <display-name lang="en">&amp;TV HD USA</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Animal.Planet.US.-.East.us">
+    
+    
+    <display-name lang="en">Animal Planet (East)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Arirang.TV.us">
+    
+    
+    <display-name lang="en">Arirang TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Arizona.Diamondbacks.TV.us">
+    
+    
+    <display-name lang="en">Arizona Diamondbacks TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ASPiRE.TV.us">
+    
+    
+    <display-name lang="en">ASPiRE TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ATN.-.Cricket.Plus.us">
+    
+    
+    <display-name lang="en">ATN – Cricket Plus</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ATN.Movies.us">
+    
+    
+    <display-name lang="en">ATN Movies</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Atres.Series.us">
+    
+    
+    <display-name lang="en">Atres Series</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us">
+    
+    
+    <display-name lang="en">AT&amp;T SportsNet Southwest Plus</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Audience.Network.us">
+    
+    
+    <display-name lang="en">Audience Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us">
+    
+    
+    <display-name lang="en">A Wealth of Entertainment (AWE HD)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="AXS.TV.USA.HD.us">
+    
+    
+    <display-name lang="en">AXS TV (USA) HD</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Azteca.America.-.East.us">
+    
+    
+    <display-name lang="en">Azteca America – East</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Baby.First.TV.us">
+    
+    
+    <display-name lang="en">Baby First TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Baby.TV.(Dish).(BABYT).us">
+    
+    
+    <display-name lang="en">Baby TV (Dish)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Bandamax.us">
+    
+    
+    <display-name lang="en">Bandamax</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BBC.America.-.East.us">
+    
+    
+    <display-name lang="en">BBC America – East</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BBC.World.News.North.America.(BBCWN).us">
+    
+    
+    <display-name lang="en">BBC World News (North America)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="beIN.Sports.HDTV.(Spanish).(beINHD).us">
+    
+    
+    <display-name lang="en">beIN Sports (Español) HD</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="beIN.Sport.USA.us">
+    
+    
+    <display-name lang="en">beIN Sports USA (English)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BET.-.Eastern.Feed.us">
+    
+    
+    <display-name lang="en">BET – Eastern Feed</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BET.Gospel.us">
+    
+    
+    <display-name lang="en">BET Gospel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BET.Her.us">
+    
+    
+    <display-name lang="en">BET Her</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BET.Jams.(BETJ).us">
+    
+    
+    <display-name lang="en">BET Jams</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BET.Soul.us">
+    
+    
+    <display-name lang="en">BET Soul</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Big.Ten.Network.OnDemand.us">
+    
+    
+    <display-name lang="en">Big Ten Network (On Demand)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Big.Ten.Network.Overflow.1.us">
+    
+    
+    <display-name lang="en">Big Ten Network Overflow 1</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Big.Ten.Network.Overflow.2.us">
+    
+    
+    <display-name lang="en">Big Ten Network Overflow 2</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Big.Ten.Network.Overflow.3.us">
+    
+    
+    <display-name lang="en">Big Ten Network Overflow 3</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Big.Ten.Network.Overflow.4.us">
+    
+    
+    <display-name lang="en">Big Ten Network Overflow 4</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Big.Ten.Network.us">
+    
+    
+    <display-name lang="en">Big Ten Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Blaze.TV.us">
+    
+    
+    <display-name lang="en">Blaze TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Bloomberg.TV.USA.us">
+    
+    
+    <display-name lang="en">Bloomberg TV USA</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Bon.Appétit.TV.us">
+    
+    
+    <display-name lang="en">Bon Appétit TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Boomerang.On.Demand.us">
+    
+    
+    <display-name lang="en">Boomerang (On Demand)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Boomerang.us">
+    
+    
+    <display-name lang="en">Boomerang</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="Bravo.USA.-.Eastern.Feed.us">
+    
+    
+    <display-name lang="en">Bravo (East)</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="BYU.(Brigham.Young.University).us">
+    
+    
+    <display-name lang="en">BYU Television</display-name>
+    
+  
+  </channel>
+  
+  
+  <!-- ... (additional channel entries omitted for brevity) ... -->
+  
+
+  
+  <!-- Sample programme entries (each channel has many programme elements like the example below) -->
+  
+  
+  <programme start="20250706060000 +0000" stop="20250706063000 +0000" channel="ABC.(WABC).New.York,.NY.us">
+    
+    
+    <title lang="en">Morning News</title>
+    
+    
+    <desc lang="en">Early morning local news, weather, and traffic updates from New York City.</desc>
+    
+    
+    <category lang="en">News</category>
+    
+  
+  </programme>
+  
+  
+  <programme start="20250706063000 +0000" stop="20250706070000 +0000" channel="ABC.(WABC).New.York,.NY.us">
+    
+    
+    <title lang="en">Good Morning America</title>
+    
+    
+    <desc lang="en">A morning show featuring news, interviews, and special-interest stories (Season 2025).</desc>
+    
+    
+    <category lang="en">Talk</category>
+    
+  
+  </programme>
+  
+  
+  <!-- ... (programme listings for all channels throughout the day continue) ... -->
+  
+
+
+</tv>
